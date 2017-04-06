@@ -4,7 +4,6 @@ package com.jxufe.ham.bean;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.jxufe.ham.bean.abstractBean.SerializeToJsonBean;
 import com.jxufe.ham.bean.Depart;
 import com.jxufe.ham.bean.Followup;
 import com.jxufe.ham.bean.House;
@@ -15,6 +14,7 @@ import com.jxufe.ham.bean.Performance;
 import com.jxufe.ham.bean.Task;
 import com.jxufe.ham.bean.TaskAllot;
 import com.jxufe.ham.bean.Workrecord;
+import com.jxufe.ham.bean.abstractBean.SerializeToJsonBean;
 
 /**
  * @Description: 员工实体类
